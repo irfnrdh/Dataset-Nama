@@ -1,6 +1,13 @@
 # Dataset-Nama
 Dataset Nama dari berbagai jenis culture sebayak 1435 data 
 
+format data :
+- Nama
+- Jenis Kelamin
+- Asal Bahasa
+- Arti
+- Nama Serupa
+
 Next garapan :  
 - https://www.popmama.com/baby-name
 - https://www.motherandbaby.co.id/article/2018/11/51/11157/200-Rekomendasi-Nama-Bayi-Laki-Laki-Jawa
