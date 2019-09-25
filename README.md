@@ -18,5 +18,5 @@ Pekerjaan rumah :
 
 Intresting Project:
 - Prediksi Jenis Kelamin Berdasarkan Nama
-- Mengidentifikasi Nama dalam Tulisan (Named Entity Recognizer)
+- Mengidentifikasi Nama dalam Tulisan (Tagging Automatically Named Entity Recognizer)
 
