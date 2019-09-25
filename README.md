@@ -1,6 +1,5 @@
 # Dataset-Nama
-Dataset Nama dari berbagai jenis culture 
-Jumlah Dataset (1435) 
+Dataset Nama dari berbagai jenis culture sebayak 1435 data 
 
 next garapan :  
 - https://www.popmama.com/baby-name
