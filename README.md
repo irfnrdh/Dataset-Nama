@@ -1,7 +1,7 @@
 # Dataset-Nama
 Dataset Nama dari berbagai jenis culture sebayak 1435 data 
 
-next garapan :  
+Next garapan :  
 - https://www.popmama.com/baby-name
 - https://www.motherandbaby.co.id/article/2018/11/51/11157/200-Rekomendasi-Nama-Bayi-Laki-Laki-Jawa
 - https://namaanakperempuan.net/
@@ -12,4 +12,6 @@ next garapan :
 - https://www.tentangnama.com/arti-nama/huruf-awal/c/
 - http://www.kisahislam.info/2017/05/1000-nama-bayi-laki-laki-islam-1-hingga.html
 
-
+Pekerjaan rumah :
+- Cleaning Data
+- Build Scraping
