@@ -18,6 +18,7 @@ Pekerjaan rumah :
 
 Intresting Project:
 - Prediksi Jenis Kelamin Berdasarkan Nama
+  (https://github.com/vck/prediksi-gender-nama)
 - Mengidentifikasi Nama dalam Tulisan (Tagging Automatically Named Entity Recognizer)
   (https://www.researchgate.net/publication/320131070_Modified_DBpedia_Entities_Expansion_for_Tagging_Automatically_NER_Dataset)
 
