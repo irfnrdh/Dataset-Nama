@@ -32,3 +32,20 @@ Intresting Project:
 Others: 
 - https://github.com/philipperemy/name-dataset
 
+## Kontak Pengelola
+Jika Anda ingin menghubungi pengelola data ini silakan kontak menggunakan media berikut ini,
+- **Telegram :** t.me/irfnrdh
+
+## Ketentuan Penggunaan Data
+* Tidak ada batasan pada penggunaan, namun mohon gunakan secara bertanggungjawab.
+* Ikuti lisensi atau izin yang berlaku terhadap data ini (lihat: Izin Penggunaan)
+* Tidak ada pungutan biaya apapun dalam penggunaan, namun untuk mengelola data ini tetap diperlukan biaya. Jika Anda merasa terbantu, mohon lakukan donasi untuk proyek ini.
+
+## Izin Penggunaan
+![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+##### [ Indonesia ]
+Proyek ini dilisensikan dibawah lisensi **Creative Commons Attribution-ShareAlike 4.0 International License**. Kumpulan data yang dibagikan bertujuan untuk ilmu pengetahuan, pembelajaran, dan penelitian Bahasa Indonesia (komputasi maupun lingusitik), dan hanya dapat digunakan untuk hal tersebut. Jika Anda mendapati bahwa data ini telah melanggar suatu hak cipta; mohon kontak pengelola _repository_ ini. 
+
+##### [ English ]
+This work is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**. The dataset is shared for the sole purpose of aiding open scientific research in Bahasa Indonesia (computing or linguistics), and can only be used for that purpose. If you think, by any means, that this dataset breaches any established copyrights; please contact the repository maintainer.
