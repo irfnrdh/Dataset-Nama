@@ -15,3 +15,8 @@ Next garapan :
 Pekerjaan rumah :
 - Cleaning Data
 - Build Scraping
+
+Intresting Project:
+- Prediksi Jenis Kelamin Berdasarkan Nama
+- Mengidentifikasi Nama dalam Tulisan
+
